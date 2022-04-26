@@ -1,0 +1,7 @@
+{
+  "name": "tddevops",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
